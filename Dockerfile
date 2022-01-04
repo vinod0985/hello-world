@@ -2,5 +2,5 @@
 From tomcat 
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
-COPY /opt/docker/webapp.war /usr/local/tomcat/webapps
+MAINTAINER "vinod.com" 
+ADD /opt/docker/webapp.war /usr/local/tomcat/webapps
